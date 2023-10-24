@@ -1,0 +1,20 @@
+https://curryyou.tistory.com/169
+https://geundung.dev/46
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Web Page</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is my web page.</p>
+    <script type="text/javascript" src="../js/test.js"></script>
+</body>
+</html>
+
+console.log("hello world");
